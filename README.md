@@ -1,4 +1,4 @@
-experimento
+Ejercicios
 ===========
 
-Prueba para aplicaciones desarrolladas con nodejs
+Ejercicios realizados en python
